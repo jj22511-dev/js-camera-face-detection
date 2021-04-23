@@ -1,6 +1,9 @@
 # js-camera-face-detection
 Webcam face detection and face expression recognition.
 
+![alt text](https://github.com/jj22511-dev/js-camera-face-detection/blob/main/sample-image.png)
+
+
 ## Getting Started
 
 ### Dependencies
