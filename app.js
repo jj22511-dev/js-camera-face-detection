@@ -10,7 +10,7 @@ let App = {
 }
 
 App.events = {
-	onToggleWebCam: function(event) {
+	onToggleWebCam(event) {
 		event.preventDefault();
 		App.funcs.loadFaceApiModels().then((res) => {
 			App.funcs.startFaceTracking();
