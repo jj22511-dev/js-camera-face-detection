@@ -1,2 +1,22 @@
 # js-camera-face-detection
-detect person face, face landmarks, and face expression.
+Webcam face detection and face expression recognition.
+
+## Getting Started
+
+### Dependencies
+
+* [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  - JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API.
+* [models](https://github.com/justadudewhohacks/face-api.js-models)
+  - Face datasets
+* Webcam.
+
+
+### Installing
+
+* Download this repository.
+
+### Executing program
+
+* Run index.html in the browser
+
