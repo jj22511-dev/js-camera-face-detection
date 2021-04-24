@@ -21,5 +21,5 @@ Webcam face detection and face expression recognition.
 
 ### Executing program
 
-* Run index.html in the browser
+* Run index.html in a local server
 
